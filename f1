@@ -1,3 +1,4 @@
+
 HEAD
 who are you? where am i?
 
@@ -12,3 +13,23 @@ Adding new line after patch 1
 
 Author: origin/master
         origin/master
+
+ r1
+why i'm practicing GITHUB after 6 years.
+
+HEAD
+who are you? where am i?
+
+this is the file 1 and code is db008757e550be3643396eeb85a893bbed85fb66
+
+April 2-2025 
+HEAD
+
+origin/master
+
+Adding new line after patch 1
+
+Author: origin/master
+        origin/master
+        master
+ fa5b0611d611b52422d6bf81bd502bd209c8405b
